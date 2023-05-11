@@ -9,3 +9,9 @@
 }
 .background{
   background:black;
+}
+.central{
+  margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
